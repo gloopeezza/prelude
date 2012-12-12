@@ -90,3 +90,4 @@ ELPA (or MELPA).")
 
 (setq prelude-whitespace t)
 (set-default-font "Menlo-16")
+(set-scroll-bar-mode -1)
